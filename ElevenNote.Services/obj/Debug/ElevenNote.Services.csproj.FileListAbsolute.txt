@@ -14,3 +14,9 @@ X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Services\o
 X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
