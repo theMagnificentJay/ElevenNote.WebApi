@@ -1,0 +1,16 @@
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.config
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\EntityFramework.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\EntityFramework.xml
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojAssemblyReference.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+X:\schoolFolder\sd86-Apr2021\VSCommunity\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
