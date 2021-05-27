@@ -1,5 +1,6 @@
 # ElevenNote.WebAPI
 ![code size](https://img.shields.io/github/languages/code-size/theMagnificentJay/ElevenNote.WebAPI)
+![total lines](https://img.shields.io/tokei/lines/github/theMagnificentJay/ElevenNote.WebApi)
 ![# of lang](https://img.shields.io/github/languages/count/theMagnificentJay/ElevenNote.WebAPI)
 ![top lang](https://img.shields.io/github/languages/top/theMagnificentJay/ElevenNote.WebAPI)
 ![efa-notes](https://img.shields.io/static/v1?label=&message=EFA-Notes&color=red)
